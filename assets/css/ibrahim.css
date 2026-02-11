@@ -1,0 +1,15 @@
+img.imagezoom:hover{
+    transition: 0.71s;
+    scale: 1 !important;
+}
+
+
+.wpo-service-area .wpo-service-wrap .wpo-service-item a:before,
+.wpo-service-area-s2 .wpo-service-wrap .wpo-service-item a:before {
+    position: absolute;
+    left: -5px;
+    top: 1px;
+    content: "\f10d";
+    font-family: "uicons-regular-rounded";
+    transition: all 0.3s;
+}
